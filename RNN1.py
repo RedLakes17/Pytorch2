@@ -1,3 +1,4 @@
+#Todos los modelos esperan una entrada con el formato (batch_size, sequence_lenght, num_features)
 import torch.nn as nn
 import torch
 
